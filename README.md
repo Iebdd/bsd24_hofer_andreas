@@ -19,7 +19,7 @@ Config file structure:
 
 ## Contact
 
-Please send feedback or suggestions to [this](11705024@student.campus02.at) email address.
+Please send feedback or suggestions to [this](mailto:11705024@student.campus02.at) email address.
 
 ## Exercises
 
