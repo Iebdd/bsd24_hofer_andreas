@@ -28,4 +28,9 @@ This is where exercises are bundled:
 1. [Exercise1](./exercise1.md) Briefly summarises a few features of Markdown
 2. [Exercise2](./exercise2.md) Summarises the most important git commands
 
+## Contact
+
+ [Github Profile](https://github.com/iebdd)  
+ [University Website](https://campus02.at)
+
 
