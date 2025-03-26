@@ -28,6 +28,7 @@ This is where exercises are bundled:
 1. [Exercise1](./exercise1.md) Briefly summarises a few features of Markdown
 2. [Exercise2](./exercise2.md) Summarises the most important git commands
 3. [Exercise2 Part 2](./exercise2_part2.md) Introduces a Github repository
+4. [Exercise3](./exercise3.md) Introduces pull requests and Maven
 
 ## Contact
 
