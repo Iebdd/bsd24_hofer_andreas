@@ -1,2 +1,5 @@
 *.html
 *.pdf
+.DS_STORE
+resources
+.idea
