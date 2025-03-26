@@ -1,5 +1,6 @@
 *.html
 *.pdf
 .DS_STORE
+target
 resources
 .idea
