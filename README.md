@@ -34,7 +34,7 @@ This is where exercises are bundled:
 
 Templates requiring adjustment are:
 
-1. log4j2.xml.template
+1. log4j2.xml.template in `src/main/resources
 
 ## Contact
 
