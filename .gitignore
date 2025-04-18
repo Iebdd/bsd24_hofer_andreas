@@ -1,6 +1,7 @@
 *.html
 *.pdf
 .DS_STORE
+*.log
+**/log4j2.xml
 target
-resources
 .idea
