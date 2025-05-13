@@ -58,7 +58,7 @@ public class CalculatorTest {
     @Test
     void testFactorial() {
         assertEquals(0, this.calc.factorial(-5));
-        assertEquals(5040, this.calc.factorial(5040));
+        assertEquals(5040, this.calc.factorial(7));
         assertEquals(1, this.calc.factorial(0));
     }
 

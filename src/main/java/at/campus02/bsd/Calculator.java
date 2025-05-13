@@ -26,7 +26,14 @@ public class Calculator {
         return number1 * number2;
     }
 
-    public long factorial(int faculty) {
-        return 0;
+    public long factorial(int max) {
+        int result = 1;
+        if(max < 0) {
+            return 0;
+        }
+        for (int faculty = 2; faculty <= max; faculty++) {
+            result *= faculty;
+        }
+        return result;
     }
 }
