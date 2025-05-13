@@ -1,0 +1,2 @@
+# Exercise4
+Unit tests can help immediately identifying issues in specific functions. This is done by the test calling a method with certain parameters and then validating the return value. By doing that, each component of an application can be tested individually and issues can be identified more easily. Using Unit Tests can also help show test coverage (The percentage of classes and methods covered by a Unit Test) to immediately see which part of the program has been tested and which hasn't.
