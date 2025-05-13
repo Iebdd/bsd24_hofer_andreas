@@ -25,4 +25,8 @@ public class Calculator {
         logger.debug(String.format("Multiply called with parameters: %f and %f.", number1, number2));
         return number1 * number2;
     }
+
+    public long factorial(int faculty) {
+        return 0;
+    }
 }

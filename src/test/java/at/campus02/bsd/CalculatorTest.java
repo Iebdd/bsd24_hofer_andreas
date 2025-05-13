@@ -54,4 +54,12 @@ public class CalculatorTest {
         assertEquals(0.5, this.calc.divide(50, 100), DELTA);
     }
 
+    @DisplayName("Testing factorial")
+    @Test
+    void testFactorial() {
+        assertEquals(0, this.calc.factorial(-5));
+        assertEquals(5040, this.calc.factorial(5040));
+        assertEquals(1, this.calc.factorial(0));
+    }
+
 }
