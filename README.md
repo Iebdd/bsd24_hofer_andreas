@@ -40,5 +40,3 @@ Templates requiring adjustment are:
 
  [GitHub Profile](https://github.com/iebdd)  
  [University Website](https://campus02.at)
-
-
